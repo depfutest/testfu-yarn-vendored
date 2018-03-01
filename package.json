@@ -1,0 +1,13 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.2",
+    "opencolor": "^0.2.0"
+  },
+  "devDependencies": {
+    "is-array": "^1.0.1"
+  }
+}
