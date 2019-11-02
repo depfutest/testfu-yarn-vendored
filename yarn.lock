@@ -6,9 +6,9 @@ is-array@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/is-array/-/is-array-1.0.1.tgz#e9850cc2cc860c3bc0977e84ccf0dd464584279a"
 
-jquery@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.1.2.tgz#b68f154cb2ea4731924883e9fe20ec199d1dc1e2"
+jquery@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.0.tgz#8de513fa0fa4b2c7d2e48a530e26f0596936efdf"
 
 opencolor@^0.2.0:
   version "0.2.0"
